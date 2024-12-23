@@ -1,0 +1,58 @@
+{
+  "hiring": {
+    "isActive": true,
+    "title": "We're Hiring!",
+    "description": "Join our amazing team at GDG DSU!",
+    "formLink": "https://forms.google.com/gdg-dsu-hiring",
+    "positions": ["Web Developer", "Event Coordinator", "Content Creator"]
+  },
+  "events": [
+    {
+      "id": "1",
+      "title": "Flutter Workshop",
+      "date": "2024-04-15",
+      "image": "https://images.unsplash.com/photo-1517292987719-0369a794ec0f",
+      "description": "Learn mobile app development with Flutter",
+      "location": "DSU Campus, Room 301",
+      "status": "upcoming",
+      "gallery": [
+        "https://images.unsplash.com/photo-1517292987719-0369a794ec0f",
+        "https://images.unsplash.com/photo-1517292987719-0369a794ec0f",
+        "https://images.unsplash.com/photo-1517292987719-0369a794ec0f"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Cloud Study Jam",
+      "date": "2024-04-20",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+      "description": "Deep dive into Google Cloud Platform",
+      "location": "Virtual Event",
+      "status": "upcoming",
+      "gallery": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa"
+      ]
+    }
+  ],
+  "team": {
+    "2024": [
+      {
+        "name": "Alex Johnson",
+        "role": "GDG Lead",
+        "image": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5",
+        "github": "https://github.com/alexj",
+        "linkedin": "https://linkedin.com/in/alexj",
+        "skills": ["React", "Flutter", "Cloud"]
+      }
+    ],
+    "2025": [
+      
+    ]
+  },
+  "stats": {
+    "members": 500,
+    "events": 50,
+    "projects": 25
+  }
+}
